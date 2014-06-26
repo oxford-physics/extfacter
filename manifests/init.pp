@@ -10,7 +10,6 @@
 #
 # Sample Usage:
 #
-class extfacter {
 define extfacter ($factname = $title, $value) {
  
 
@@ -40,4 +39,3 @@ define extfacter ($factname = $title, $value) {
 
 }
 
-}
